@@ -1,0 +1,19 @@
+.dashboard {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.chart-container {
+  margin-top: 20px;
+}
+
+p {
+  text-align: center;
+  color: #666;
+}
